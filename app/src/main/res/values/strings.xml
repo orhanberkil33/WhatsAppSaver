@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsAppSaver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hen_z_burda_bir_ey_yok">Henüz burda bir şey yok...</string>
+    <string name="indirilme_yok">indirilme yok</string>
+</resources>
